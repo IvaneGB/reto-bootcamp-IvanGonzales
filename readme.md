@@ -1,11 +1,10 @@
 Reto 1: Web Scraping
+Este proyecto tiene como objetivo scrapear productos de una página web. Actualmente, la funcionalidad implementada solo permite scrapear los productos de una pagina de una sola categoria
+Estado del Proyecto
+- Scraping: El proyecto puede scrapear correctamente los productos de una sola categoría, pero solo de la primera página.
+-
+Mis disculpas por no haber podido completar todas las funcionalidades del reto. Estoy trabajando en mejorar el proyecto.Agradezco mucho su comprensión y paciencia.**
 
-Descripción:
-- Visitar el sitio web de Plaza Vea (https://www.plazavea.com.pe/) y realizar la extracción de todos los productos disponibles de todas las categorías. 
-- Al completar esta tarea, subir el archivo al repositorio.
+### Instrucciones
+Al ejecutarse lo que realiza es cuando estes en la pagina https://www.plazavea.com.pe/ entra a la categoria Tecnologia y hace el scrapeado de la primera pagina de productos.
 
-Objetivo:
-- Aplicar los conocimientos adquiridos durante las clases y reforzar lo aprendido mediante una actividad práctica.
-
-Fecha de entrega:
-- Lunes, 6:00 p.m.
