@@ -1,0 +1,16 @@
+{
+  "name": "chrome-extension",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "typescript": "~5.6.2",
+    "vite": "^5.4.10"
+  },
+  "dependencies": {
+    "@types/chrome": "^0.0.280"
+  }
+}
